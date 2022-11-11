@@ -1,0 +1,4 @@
+Arrays 
+- Stock Buy sell Problem
+- Sliding window technique ending has few questions
+- prefix sum two lectures
