@@ -2,3 +2,7 @@ Arrays
 - Stock Buy sell Problem
 - Sliding window technique ending has few questions
 - prefix sum two lectures
+
+Searching 
+- Median of Two Sorted Array
+- Allocating minimum pages
