@@ -6,3 +6,7 @@ Arrays
 Searching 
 - Median of Two Sorted Array
 - Allocating minimum pages
+
+Sorting 
+- Merge Sort Code Not Working
+- Quick Sort Naive Code Not Working
