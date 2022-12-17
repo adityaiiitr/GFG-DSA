@@ -10,3 +10,7 @@ Searching
 Sorting 
 - Merge Sort Code Not Working
 - Quick Sort Naive Code Not Working
+
+Hashing
+- Implementation of Chaining Code Not Working
+- Implementation of Open Addressing
