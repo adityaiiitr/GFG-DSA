@@ -14,3 +14,6 @@ Sorting
 Hashing
 - Implementation of Chaining Code Not Working
 - Implementation of Open Addressing
+
+Strings
+- KMP Algorithm
