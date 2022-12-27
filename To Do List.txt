@@ -17,3 +17,7 @@ Hashing
 
 Strings
 - KMP Algorithm
+
+Linked List
+- Clone Linked List with Random Addressing
+- LRU Cache
